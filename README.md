@@ -40,6 +40,10 @@ beverage-sales-tableau-dashboard/
 ├── beverage_sales.csv                     – Source data used in dashboard (referenced inside Tableau)  
 ├── README.md                              – Project overview and usage  
 
+## Data Structure
+
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/be055d5c-7ca6-453f-9bec-1233e625742c" />
+
 ## Dashboard Features
 
 - Filters:
@@ -73,6 +77,10 @@ beverage-sales-tableau-dashboard/
 
 - Tableau Desktop 2021.1 or later  
 - beverage_sales.csv file (semicolon-separated, UTF-8 encoding, German locale)
+
+## Mock-Up
+
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/36b57837-8ddf-4c3c-83ae-bb500e73cd5a" />
 
 ## License
 
